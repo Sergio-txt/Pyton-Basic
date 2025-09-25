@@ -1,0 +1,13 @@
+Expresiones y operadores en Python.
+
+**Expresiones y Operadores**
+- Las expresiones son bloques que se pueden combinar para formar expresiones más complejas.
+- El operador de adición se utiliza para sumar valores, como en `100 + 200`, que resulta en `300`.
+
+**Otros Operadores**
+- Python incluye operadores de resta, multiplicación y división, como `5 - 2` (resultado: `3`), `2 * 4` (resultado: `8`), y `10 / 3` (resultado: `3.3`).
+- También hay división truncada y el operador módulo, que devuelve el residuo de una división.
+
+**Orden de Operaciones**
+- Python sigue el orden de operaciones matemáticas: primero paréntesis, luego exponentes, seguido de multiplicación y división, y finalmente suma y resta.
+- Para calcular el promedio de dos números, se deben usar paréntesis para asegurar el orden correcto, como en `(10 + 20) / 2`, que da como resultado `15.0`.
