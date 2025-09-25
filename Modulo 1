@@ -12,3 +12,15 @@ Expresiones y Tipos de Datos
 Uso de la Función Print
 - Para obtener retroalimentación de los programas, se utiliza la función `print`, que permite mostrar valores en la ventana de salida.
 - Al combinar expresiones y la función `print`, se pueden crear programas más interactivos y útiles.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A valor es una de las cosas fundamentales —como una palabra o un número— que manipula un programa. Algunos valores son 5 (el resultado cuando sumamos ), și . Estos objetos se clasifican en diferentes clases o tipos de datos: 4 es un número entero y “¡Hola mundo!” es una cadena, llamada así porque contiene una cadena o secuencia de letras. Usted (y el intérprete) pueden identificar cadenas porque están entre comillas marcas.2 + 3"Hello, World!"
+
+Podemos especificar valores directamente en los programas que escribimos. Por ejemplo, podemos especificar un número como literal simplemente escribiéndolo (literalmente) directamente en el programa (por ejemplo, 5 o 4.32). En un programa, especificamos una palabra, o más generalmente una cadena de caracteres, encerrando los caracteres entre comillas (por ejemplo, )."Hello, World!"
+
+Durante la ejecución de un programa, el intérprete de Python crea una representación interna de literales que se especifican en un programa. Luego puede manipularlos, por ejemplo multiplicando dos números. A las representaciones internas las llamamos objetos o simplemente valores.
+
+No se pueden ver directamente las representaciones internas de los valores. Sin embargo, puedes utilizar el print función para ver una representación impresa en la ventana de salida.
+
+La representación impresa de un número utiliza la conocida representación decimal (lectura Números romanos es un desafío divertido en los museos, pero gracias a Dios el intérprete de Python no presenta el número 2014 como MMXIV en la ventana de salida). Por lo tanto, la representación impresa de un número que se muestra en la ventana de salida es la misma que el literal que usted especifica en un programa.
+
+Sin embargo, la representación impresa de una cadena de caracteres no es exactamente la misma que el literal utilizado para especificar la cadena en un programa. Para el literal en un programa, encierra la cadena entre comillas. La representación impresa, en la ventana de salida, omite las comillas.
