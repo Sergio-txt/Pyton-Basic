@@ -1,0 +1,14 @@
+Valores y tipos de datos
+En esta lección, se abordan los conceptos básicos de la escritura de programas en Python.
+
+Introducción a Python
+- Python es un lenguaje accesible para principiantes, permitiendo escribir programas simples con facilidad.
+- El código se escribe en una ventana y se interpreta mediante un programa llamado intérprete de Python, que ejecuta el código y puede generar salida.
+
+Expresiones y Tipos de Datos
+- Las expresiones son bloques fundamentales de programación que tienen un valor; por ejemplo, 100 es una expresión cuyo valor es 100, y su tipo es un entero.
+- Otros tipos de datos incluyen flotantes (como 3.14) y cadenas (como "Hello World"), cada uno con su propio valor y tipo.
+
+Uso de la Función Print
+- Para obtener retroalimentación de los programas, se utiliza la función `print`, que permite mostrar valores en la ventana de salida.
+- Al combinar expresiones y la función `print`, se pueden crear programas más interactivos y útiles.
