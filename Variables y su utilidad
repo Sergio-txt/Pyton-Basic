@@ -1,0 +1,11 @@
+Variables y su utilidad
+- Las variables permiten almacenar valores de expresiones para su uso posterior en programas.
+- Proporcionan nombres legibles para los humanos, facilitando la reutilización de valores.
+
+Diagrama de valores de variables
+- Se utiliza un diagrama de valores de variables para simular la ejecución de programas, mostrando qué variable está asociada a qué valor.
+- Este diagrama tiene dos columnas: variables y valores, y se llena línea por línea a medida que se ejecuta el código.
+
+Reglas para nombrar variables
+- Los nombres de las variables deben comenzar con una letra y pueden contener letras y números.
+- Python es sensible a mayúsculas y minúsculas, lo que significa que "XYZ" y "xyz" son variables diferentes.
